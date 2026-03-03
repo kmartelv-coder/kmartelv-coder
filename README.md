@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hola, soy Kenyi Brian Martel Vásquez
 
-<!--
-**kmartelv-coder/kmartelv-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌎 Environmental Engineer | 📊 Data Analytics | 🌱 Carbon Accounting Systems
 
-Here are some ideas to get you started:
+Trabajo en la intersección entre **Sostenibilidad, Data Engineering y Business Intelligence**, diseñando sistemas estructurados para inventarios GEI, automatización de reportes y toma de decisiones estratégicas basadas en datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 En qué estoy enfocado
+
+- 🔭 Diseño de sistemas automatizados de Inventario GEI
+- 📊 Dashboards estratégicos en Power BI
+- 🧠 Modelado de datos y ETL con Python & SQL
+- 🌱 Desarrollo de sistemas MRV para Climate-Tech
+
+---
+
+## 🧰 Tech Stack
+
+| Data & Engineering | Sustainability | BI & Tools |
+|-------------------|---------------|------------|
+| Python (Pandas) | ISO 14064-1 | Power BI |
+| SQL Server | GHG Protocol | Excel |
+| ETL Pipelines | Carbon Accounting | Git |
+| Data Modeling | MRV Systems | GitHub |
+
+---
+
+## 📌 Proyectos Destacados
+
+🔹 **Strategic Inventory Management System**  
+Data Warehouse + ETL + KPIs estratégicos
+
+🔹 **GEI System v1**  
+Arquitectura estructurada para inventario mensual de emisiones por categoría ISO y equivalencia Scope 1-3
+
+🔹 **Power BI Dashboards**
+Business Intelligence aplicado a gestión estratégica
+
+---
+
+## 📫 Conecta conmigo
+
+- 💼 LinkedIn: (https://www.linkedin.com/in/kenyi-martel/)
